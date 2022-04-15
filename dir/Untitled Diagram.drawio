@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T17:55:14.581Z" agent="5.0 (Windows)" etag="pJ4kQBihwfF-c9mjIgga" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T17:56:31.822Z" agent="5.0 (Windows)" etag="0v_sGCshwUUJk2A5RcYs" version="17.4.5" type="github">
   <diagram id="1m1d-IGb0q5Zd7Dmudsn" name="Page-1">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -43,15 +43,6 @@
         <mxCell id="V6w1FGQbFWFw8Mhqc-_e-1" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eks;" vertex="1" parent="1">
           <mxGeometry x="399" y="440" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="V6w1FGQbFWFw8Mhqc-_e-2" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=vol" vertex="1" parent="1">
-          <mxGeometry x="550" y="410" width="50" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="V6w1FGQbFWFw8Mhqc-_e-3" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=secret" vertex="1" parent="1">
-          <mxGeometry x="560" y="322" width="50" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="V6w1FGQbFWFw8Mhqc-_e-4" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=sched" vertex="1" parent="1">
-          <mxGeometry x="630" y="418" width="50" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="V6w1FGQbFWFw8Mhqc-_e-5" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=role" vertex="1" parent="1">
           <mxGeometry x="413" y="383" width="50" height="48" as="geometry" />
         </mxCell>
@@ -60,9 +51,6 @@
         </mxCell>
         <mxCell id="V6w1FGQbFWFw8Mhqc-_e-7" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=sa" vertex="1" parent="1">
           <mxGeometry x="720" y="410" width="50" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="V6w1FGQbFWFw8Mhqc-_e-8" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=quota" vertex="1" parent="1">
-          <mxGeometry x="660" y="335" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V6w1FGQbFWFw8Mhqc-_e-9" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pvc" vertex="1" parent="1">
           <mxGeometry x="588" y="480" width="50" height="48" as="geometry" />
